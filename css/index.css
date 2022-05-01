@@ -39,8 +39,9 @@ p.text {
   text-align: center;
 }
 
-a {
+a:link {
   color: #rgb(0,0,0);
+  
 }
 body {
   font-family: roboto;
