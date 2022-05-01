@@ -41,22 +41,25 @@ p.text {
 
 /* unvisited link */
 a:link {
-  color: red;
+  color: black;
 }
 
 /* visited link */
 a:visited {
-  color: green;
+  color: black;
 }
 
 /* mouse over link */
 a:hover {
-  color: hotpink;
+  color: green;
 }
 
 /* selected link */
 a:active {
-  color: blue;
+  color: black;
 }
 
+body {
+  font-family: roboto;
+}
 
