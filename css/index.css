@@ -5,7 +5,8 @@
 }
 
 body {
-  background-image: url('res/background.jpeg');
+ background-image: url('res/background.jpeg');
+ background-color: white;
 }
 
 .container {
