@@ -80,13 +80,6 @@ a:active {
 }
 
 .child {
-  background-color: white;
-  opacity: 60%;
-  padding: 10px;
-  margin: auto;
-  margin-bottom: 10px;
-  text-align: center;
-  border-radius: 10px;
   display: inline-block;
   vertical-align: middle;
   width: 30%;
