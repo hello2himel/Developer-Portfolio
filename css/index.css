@@ -79,7 +79,7 @@ a:active {
   display: inline-block;
   vertical-align: middle;
   width: 40%;
-  height: 30%;
+  height: 100%
 }
 
 .float-container {
