@@ -15,6 +15,9 @@ body {
  background-position: bottom center;
 }
 
+a {
+  margin: 5px;
+}
 /* unvisited link */
 a:link {
   color: #623412;
