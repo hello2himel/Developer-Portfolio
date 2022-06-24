@@ -7,7 +7,7 @@
 body {
  background-image: url('/res/background.jpeg');
  background-repeat: no-repeat;
- background-size: auto;
+ background-size: auto 100%;
  background-color: white;
 }
 
