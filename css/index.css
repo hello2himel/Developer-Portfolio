@@ -67,7 +67,15 @@ a:active {
   text-align: center;
 }
 
-.box {
+.c1 {
   background-color: white;
   opacity: 80%;
+  padding: 10px;
+  margin: auto;
+  text-align: center;
+}
+
+.heading {
+  font-size: 20px;
+  color: black;
 }
