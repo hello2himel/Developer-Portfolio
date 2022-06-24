@@ -82,20 +82,16 @@ a:active {
 }
 
 .parent {
+  border: 1px solid black;
+  margin: 1rem;
+  padding: 2rem 2rem;
   text-align: center;
 }
-
 .child {
-  background-color: white;
-  opacity: 60%;
-  padding: 10px;
-  margin: auto;
-  margin-bottom: 10px;
-  text-align: center;
-  border-radius: 10px;
   display: inline-block;
+  border: 1px solid red;
+  padding: 1rem 1rem;
   vertical-align: middle;
-  width: 30%;
 }
 
 .heading {
