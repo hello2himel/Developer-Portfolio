@@ -79,6 +79,13 @@ a:active {
   border-radius: 10px;
 }
 
+.child {
+  display: inline-block;
+  border: 1px solid red;
+  padding: 1rem 1rem;
+  vertical-align: middle;
+}
+
 .heading {
   font-size: 20px;
   color: black;
