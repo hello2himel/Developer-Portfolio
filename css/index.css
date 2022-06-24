@@ -77,13 +77,12 @@ a:active {
   margin-bottom: 10px;
   text-align: center;
   border-radius: 10px;
-}
-
-.child {
   display: inline-block;
   vertical-align: middle;
-  width: 30%;
-  margin: 5px;
+}
+
+.parent {
+  margin: auto;
 }
 
 .heading {
