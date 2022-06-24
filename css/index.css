@@ -74,6 +74,7 @@ a:active {
   opacity: 60%;
   padding: 10px;
   margin: auto;
+  margin-bottom: 10px;
   text-align: center;
   border-radius: 10px;
 }
