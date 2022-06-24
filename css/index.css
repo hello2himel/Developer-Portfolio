@@ -76,8 +76,9 @@ a:active {
   margin-bottom: 10px;
   text-align: center;
   border-radius: 10px;
-  width: 100%;
-  padding-top: 100%;
+  width: 40%;
+  padding-top: 40%;
+  position: relative;
 }
 
 .div-container {
@@ -91,4 +92,5 @@ a:active {
   color: black;
   padding: 10px;
   font-weight: 700;
+  position: absolute;
 }
