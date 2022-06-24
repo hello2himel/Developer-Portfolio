@@ -77,14 +77,6 @@ a:active {
   text-align: center;
   border-radius: 10px;
   width: 40%;
-  padding-top: 40%;
-  position: relative;
-}
-
-.div-container {
-    padding: 10px;
-    display: grid;
-    gap: 10px;
 }
 
 .heading {
@@ -92,5 +84,4 @@ a:active {
   color: black;
   padding: 10px;
   font-weight: 700;
-  position: absolute;
 }
