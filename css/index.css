@@ -76,7 +76,8 @@ a:active {
   margin-bottom: 10px;
   text-align: center;
   border-radius: 10px;
-  width: 40%;
+  display: inline-block;
+  width: auto;
 }
 
 .heading {
