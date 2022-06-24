@@ -5,9 +5,9 @@
 }
 
 body {
- background-image: url('/res/body-background.jpeg');
+ background-image: url('/res/background.jpeg');
  background-repeat: no-repeat;
- background-size: 100% 100%;
+ background-size: 100%;
  background-color: white;
  background-position: bottom;
 }
