@@ -5,7 +5,7 @@
 }
 
 body {
- background-image: url('/res/background.jpeg');
+ background-image: url('/res/body-background.jpeg');
  background-repeat: no-repeat;
  background-size: cover;
  background-color: white;
