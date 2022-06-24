@@ -83,6 +83,7 @@ a:active {
   display: inline-block;
   vertical-align: middle;
   width: 30%;
+  margin: 5px;
 }
 
 .heading {
