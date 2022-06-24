@@ -15,6 +15,26 @@ body {
  background-position: bottom center;
 }
 
+/* unvisited link */
+a:link {
+  color: #623412;
+}
+
+/* visited link */
+a:visited {
+  color: #623412;
+}
+
+/* mouse over link */
+a:hover {
+  color: #623412;
+}
+
+/* selected link */
+a:active {
+  color: #623412;
+}
+
 .container {
   margin: auto;
   text-align: center;
