@@ -9,6 +9,7 @@ body {
  background-repeat: no-repeat;
  background-size: cover;
  background-color: white;
+ position: bottom;
 }
 
 .container {
