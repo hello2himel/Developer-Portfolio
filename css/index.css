@@ -52,7 +52,7 @@ a:active {
 }
 
 .username {
-  font-size: 20px;
+  font-size: 30px;
   color: Black;
   margin: 10px;
   font-weight: 800;
@@ -65,4 +65,9 @@ a:active {
 
 .social{
   text-align: center;
+}
+
+.box {
+  background-color: white;
+  opacity: 80%;
 }
