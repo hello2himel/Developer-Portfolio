@@ -70,14 +70,15 @@ a:active {
 
 .c1 {
   background-color: white;
-  opacity: 80%;
+  opacity: 60%;
   padding: 10px;
   margin: auto;
   text-align: center;
+  border-radius: 10px;
 }
 
 .heading {
   font-size: 20px;
   color: black;
-  border-radius: 10px;
+  padding: 10px;
 }
