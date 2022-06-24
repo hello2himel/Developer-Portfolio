@@ -78,6 +78,7 @@ a:active {
   border-radius: 10px;
   display: inline-block;
   vertical-align: middle;
+  width: 30%;
 }
 
 .float-container {
