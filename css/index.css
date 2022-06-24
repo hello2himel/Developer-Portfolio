@@ -31,8 +31,10 @@ body {
 .username {
   font-size: 20px;
   color: gray;
+  margin: 10px;
 }
 .bio {
   font-size: 20px;
   color: black;
+  margin: 10px;
 }
