@@ -81,6 +81,18 @@ a:active {
   vertical-align: middle;
 }
 
+.float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    border: 2px solid red;
+}  
+
 .heading {
   font-size: 20px;
   color: black;
