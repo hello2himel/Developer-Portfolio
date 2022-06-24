@@ -41,7 +41,7 @@ a:active {
 .container {
   margin: auto;
   text-align: center;
-  padding: 10px;
+  padding: 20px;
 }
 .profile {
   width: 30%;
@@ -54,28 +54,28 @@ a:active {
 .username {
   font-size: 30px;
   color: Black;
-  margin: 10px;
+  margin: 20px;
   font-weight: 800;
 }
 .bio {
   font-size: 20px;
   color: grey;
-  margin: 10px;
+  margin: 20px;
 }
 
 .social{
   text-align: center;
-  margin: 10px;
+  margin: 20px;
 }
 
 .c1 {
   background-color: white;
   opacity: 60%;
-  padding: 10px;
+  padding: 20px;
   margin: auto;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   text-align: center;
-  border-radius: 10px;
+  border-radius: 20px;
   display: inline-block;
   width: 90%;
   height: auto;
@@ -84,6 +84,6 @@ a:active {
 .heading {
   font-size: 20px;
   color: black;
-  padding: 10px;
+  padding: 20px;
   font-weight: 700;
 }
