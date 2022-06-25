@@ -181,7 +181,6 @@ a:active {
 }
 
 .sidebar {
-  display: flex;
   padding: 10px;
   background-color: white;
   opacity: 80%;
