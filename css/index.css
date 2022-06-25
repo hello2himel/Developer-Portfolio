@@ -61,6 +61,7 @@ a:active {
 
 .c-heading {
   font-weight: 600;
+  font-size: 20px;
   padding: 10px;
 }
 
@@ -75,14 +76,15 @@ a:active {
   display: grid;
   height: 100vh;
   grid-template-columns: 1fr;
-  grid-template-rows: 1fr 5fr 3fr 3fr 3fr 3fr;
+  grid-template-rows: 1fr 5fr 3fr 3fr 3fr 3fr 1fr;
   grid-template-areas: 
   "top"
   "sidebar"
   "c1"
   "c2"
   "c3"
-  "c4";
+  "c4"
+  "footer";
 }
 
 .top {
