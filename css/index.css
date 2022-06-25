@@ -89,11 +89,9 @@ a:active {
 .b-link {
   padding: 5px;
   margin: 5px;
-  color: white;
+  color: #623412;
   font-size: 20px;
   font-weight: 800;
-  background-color: black;
-  border-radius: 10px;
 }
 
 
