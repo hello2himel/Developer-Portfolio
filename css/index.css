@@ -39,6 +39,13 @@ a:active {
   color: #623412;
 }
 
+.profile-picture {
+  width: 30%;
+  border-radius: 100%;
+}
+
+
+
 .grid-container {
   display: grid;
   height: 100vh;
