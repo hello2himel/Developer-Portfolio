@@ -184,6 +184,7 @@ a:active {
   border-radius: 20px;
   display: flex;
   float: left;
+  text-align: center;
   grid-area: bottom;
 }
 
