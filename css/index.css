@@ -6,6 +6,10 @@
   margin: 0;
 }
 
+.padding {
+  height: 30px;
+}
+
 body {
  background-image: url('/res/background.jpeg');
  background-repeat: no-repeat;
