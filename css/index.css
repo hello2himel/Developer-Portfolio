@@ -176,7 +176,6 @@ a:active {
   background-color: white;
   margin: 10px;
   padding: 10px;
-  
   border-radius: 20px;
   grid-area: top;
 }
@@ -184,7 +183,6 @@ a:active {
 .sidebar {
   padding: 10px;
   background-color: white;
-  
   border-radius: 20px;
   justify-content: center;
   align-items: center;
@@ -201,7 +199,6 @@ a:active {
   padding: 10px;
   margin: 10px;
   background-color: white;
-  
   border-radius: 20px;
   grid-area: c1;
 }
@@ -212,7 +209,6 @@ a:active {
   padding: 10px;
   margin: 10px;
   background-color: white;
-  
   border-radius: 20px;
   grid-area: c2;
 }
@@ -223,7 +219,6 @@ a:active {
   padding: 10px;
   margin: 10px;
   background-color: white;
-  
   border-radius: 20px;
   grid-area: c3;
 }
@@ -234,14 +229,12 @@ a:active {
   padding: 10px;
   margin: 10px;
   background-color: white;
-  
   border-radius: 20px;
   grid-area: c4;
 }
 
 .bottom {
   background-color: white;
-  
   margin: 10px;
   padding: 10px;
   border-radius: 20px;
