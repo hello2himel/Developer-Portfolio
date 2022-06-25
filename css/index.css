@@ -210,7 +210,6 @@ a:active {
   font-weight: 300;
   font-size: 40px;
   padding: 10px;
-  color: white;
 }
 
 .name {
@@ -222,7 +221,6 @@ a:active {
 .social {
   padding: 30px;
   font-size: 30px;
-  color: white;
 }
 
   
@@ -248,6 +246,9 @@ a:active {
 
 .sidebar {
   padding: 50px;
+  background-color: white;
+  opacity: 80%;
+  border-radius: 30px;
   justify-content: center;
   align-items: center;
   text-align: center;
