@@ -147,3 +147,10 @@ a:active {
   border-radius: 20px;
   grid-area: c4;
 }
+
+.bottom {
+  background-color: white;
+  opacity: 60%;
+  padding: 20px;
+  border-radius: 20%;
+}
