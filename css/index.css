@@ -183,6 +183,7 @@ a:active {
 .sidebar {
   padding: 10px;
   background-color: white;
+  opacity: 80%;
   border-radius: 20px;
   justify-content: center;
   align-items: center;
