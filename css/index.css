@@ -42,6 +42,7 @@ a:active {
   color: white;
   opacity: 60%;
   align-content: center;
+  justify-content: space-between;
   display: flex;
 }
 
