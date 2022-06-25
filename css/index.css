@@ -20,11 +20,6 @@ ul {
   list-style-type: none;
 }
 
-ul li {
-  background-color: black;
-  color: white;
-}
-
 a {
   margin: 5px;
   text-decoration: none;
