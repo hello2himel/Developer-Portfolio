@@ -97,6 +97,17 @@ a:active {
   font-weight: 400;
 }
 
+.box {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: white;
+  opacity: 60%;
+  border-radius: 20px;
+}
+
 
 
 .grid-container {
