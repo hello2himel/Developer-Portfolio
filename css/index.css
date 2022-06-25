@@ -87,6 +87,8 @@ a:active {
 }
 
 .b-link {
+  padding: 5px;
+  margin: 5px;
   color: white;
   font-size: 20px;
   font-weight: 800;
@@ -180,6 +182,8 @@ a:active {
   opacity: 60%;
   padding: 20px;
   border-radius: 20px;
+  display: flex;
+  float: left;
   grid-area: bottom;
 }
 
