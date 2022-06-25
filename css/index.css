@@ -196,7 +196,7 @@ a:active {
   display: grid;
   height: 100vh;
   grid-template-columns: 1.5fr 1fr 1fr;
-  grid-template-rows: 1fr 3fr 3fr 1fr;
+  grid-template-rows: 1fr 6fr 6fr 1fr;
   grid-template-areas: 
   "top top top"
   "sidebar c1 c2"
