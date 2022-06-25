@@ -185,6 +185,8 @@ a:active {
   display: flex;
   float: left;
   text-align: center;
+  justify-content: center;
+  align-items: center;
   grid-area: bottom;
 }
 
