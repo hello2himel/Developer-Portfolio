@@ -40,6 +40,7 @@ a:active {
 
 .grid-container {
   display: grid;
+  height: 100vh;
   grid-template-columns: 1fr;
   grid-template-rows: 1fr 5fr 3fr 3fr 3fr 3fr;
   grid-template-areas: 
