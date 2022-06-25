@@ -164,7 +164,7 @@ a:active {
   display: grid;
   height: 100vh;
   grid-template-columns: 1.5fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 3fr 3fr 1fr;
   grid-template-areas: 
   "top top top"
   "sidebar c1 c2"
@@ -196,7 +196,7 @@ a:active {
   align-items: center;
   text-align: center;
   padding: 20px;
-  margin-bottom: 20px;
+  margin: 20px;
   background-color: white;
   opacity: 60%;
   border-radius: 20px;
@@ -207,7 +207,7 @@ a:active {
   align-items: center;
   text-align: center;
   padding: 20px;
-  margin-bottom: 20px;
+  margin: 20px;
   background-color: white;
   opacity: 60%;
   border-radius: 20px;
@@ -218,7 +218,7 @@ a:active {
   align-items: center;
   text-align: center;
   padding: 20px;
-  margin-bottom: 20px;
+  margin: 20px;
   background-color: white;
   opacity: 60%;
   border-radius: 20px;
@@ -229,7 +229,7 @@ a:active {
   align-items: center;
   text-align: center;
   padding: 20px;
-  margin-bottom: 20px;
+  margin: 20px;
   background-color: white;
   opacity: 60%;
   border-radius: 20px;
