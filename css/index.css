@@ -84,7 +84,7 @@ a:active {
   "c2"
   "c3"
   "c4"
-  "footer";
+  "bottom";
 }
 
 .top {
@@ -153,4 +153,5 @@ a:active {
   opacity: 60%;
   padding: 20px;
   border-radius: 20%;
+  grid-area: bottom;
 }
