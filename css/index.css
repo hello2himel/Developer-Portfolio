@@ -100,6 +100,7 @@ a:active {
 
 .top {
   background-color: white;
+  display: flex;
   opacity: 60%;
   border-radius: 20px;
   grid-area: top;
