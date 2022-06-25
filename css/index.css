@@ -38,86 +38,63 @@ a:active {
   color: #623412;
 }
 
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 5fr 3fr 3fr 3fr 3fr;
+  grid-template-areas: "Nav"
+  "Sidebar"
+  "c1"
+  "c2"
+  "c3"
+  "c4";
+}
+
 .top {
-  color: white;
+  background-color: white;
   opacity: 60%;
-  align-content: center;
-  justify-content: space-between;
+  border-radius: 20px;
+  grid-area: nav;
 }
 
-.top ul {
-  
-  display: flex;
-}
-
-.top ul li {
-  padding: 20px;
-}
-
-.container {
-  margin: auto;
-  text-align: center;
-  padding: 20px;
-}
-.profile {
-  width: 30%;
-  border-radius: 50%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.username {
-  font-size: 30px;
-  color: Black;
-  margin: 20px;
-  font-weight: 800;
-}
-.bio {
-  font-size: 20px;
-  color: grey;
-  margin: 20px;
-}
-
-.social{
-  text-align: center;
-  margin: 20px;
+.Sidebar {
+  justify-content: center;
+  grid-area: Sidebar;
 }
 
 .c1 {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
   background-color: white;
   opacity: 60%;
-  padding: 20px;
-  margin: auto;
-  margin-bottom: 20px;
+  grid-area: c1;
+}
+.c2 {
+  justify-content: center;
+  align-items: center;
   text-align: center;
-  border-radius: 20px;
-  display: inline-block;
-  width: 90%;
-  height: auto;
-}
-
-.heading {
-  font-size: 20px;
-  color: black;
   padding: 20px;
-  font-weight: 700;
-}
-
-@media only screen and (min-width: 768px) {
-  /* For desktop: */
-  
-  .c1 {
   background-color: white;
   opacity: 60%;
-  padding: 20px;
-  margin: auto;
-  margin-bottom: 20px;
-  text-align: center;
-  border-radius: 20px;
-  display: inline-block;
-  width: 30%;
-  height: auto;
+  grid-area: c2;
 }
-
+.c3 {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+  background-color: white;
+  opacity: 60%;
+  grid-area: c3;
+}
+.c4 {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+  background-color: white;
+  opacity: 60%;
+  grid-area: c4;
 }
