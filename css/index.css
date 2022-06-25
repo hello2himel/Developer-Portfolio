@@ -42,7 +42,8 @@ a:active {
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 1fr 5fr 3fr 3fr 3fr 3fr;
-  grid-template-areas: "Nav"
+  grid-template-areas: 
+  "top"
   "Sidebar"
   "c1"
   "c2"
@@ -54,7 +55,7 @@ a:active {
   background-color: white;
   opacity: 60%;
   border-radius: 20px;
-  grid-area: nav;
+  grid-area: top;
 }
 
 .Sidebar {
