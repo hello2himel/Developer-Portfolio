@@ -18,6 +18,7 @@ body {
 
 a {
   margin: 5px;
+  text-decoration: none;
 }
 /* unvisited link */
 a:link {
@@ -32,6 +33,7 @@ a:visited {
 /* mouse over link */
 a:hover {
   color: #623412;
+  cursor: pointer;
 }
 
 /* selected link */
@@ -42,6 +44,7 @@ a:active {
 .profile-picture {
   width: 30%;
   border-radius: 100%;
+  opacity: 100%;
 }
 
 .name {
