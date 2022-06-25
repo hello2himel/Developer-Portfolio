@@ -38,6 +38,11 @@ a:active {
   color: #623412;
 }
 
+.top {
+  color: white;
+  opacity: 60%;
+}
+
 .container {
   margin: auto;
   text-align: center;
