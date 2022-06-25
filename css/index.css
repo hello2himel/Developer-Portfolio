@@ -43,7 +43,15 @@ a:active {
   opacity: 60%;
   align-content: center;
   justify-content: space-between;
+}
+
+.top ul {
+  
   display: flex;
+}
+
+.top ul li {
+  padding: 20px;
 }
 
 .container {
