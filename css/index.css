@@ -46,6 +46,12 @@ a:active {
 
 .name {
   font-weight: 800;
+  font-size: 30px;
+  padding: 10px;
+}
+
+.bio {
+  font-weight: 300;
   padding: 10px;
 }
 
