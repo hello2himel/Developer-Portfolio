@@ -152,6 +152,6 @@ a:active {
   background-color: white;
   opacity: 60%;
   padding: 20px;
-  border-radius: 20%;
+  border-radius: 20px;
   grid-area: bottom;
 }
