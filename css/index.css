@@ -63,6 +63,7 @@ a:active {
 
 .bio {
   font-weight: 300;
+  font-size: 40px;
   padding: 10px;
 }
 
@@ -192,6 +193,23 @@ a:active {
 @media only screen and (min-width: 768px) 
 {
   /* For desktop: */
+  
+.bio {
+  font-weight: 300;
+  font-size: 40px;
+  padding: 10px;
+}
+
+.name {
+  font-weight: 800;
+  font-size: 60px;
+  padding: 10px;
+}
+
+.social {
+  padding: 30px;
+}
+
   
 .grid-container {
   display: grid;
