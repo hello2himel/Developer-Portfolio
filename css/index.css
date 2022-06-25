@@ -167,12 +167,9 @@ a:active {
   grid-template-rows: 1fr 1fr 1fr 1fr;
   grid-template-areas: 
   "top top top"
-  "sidebar"
-  "c1"
-  "c2"
-  "c3"
-  "c4"
-  "bottom";
+  "sidebar c1 c2"
+  "sidebar c3 c4"
+  "sidebar bottom bottom"
 }
 
 .top {
@@ -184,6 +181,9 @@ a:active {
 
 .sidebar {
   padding: 20px;
+  background-color: white;
+  opacity: 60%;
+  border-radius: 20px;
   justify-content: center;
   align-items: center;
   text-align: center;
