@@ -103,7 +103,7 @@ a:active {
   text-align: center;
   padding: 20px;
   margin-bottom: 20px;
-  background-color: rgba(255,255,2550.6);
+  background-color: rgba(255,255,2550.4);
   
   border-radius: 20px;
 }
@@ -126,7 +126,7 @@ a:active {
 }
 
 .top {
-  background-color: rgba(255,255,2550.6);
+  background-color: rgba(255,255,2550.4);
   display: flex;
   align-items: center;
   text-align: center;
@@ -150,7 +150,7 @@ a:active {
   text-align: center;
   padding: 20px;
   margin-bottom: 20px;
-  background-color: rgba(255,255,2550.6);
+  background-color: rgba(255,255,2550.4);
   
   border-radius: 20px;
   grid-area: c1;
@@ -161,7 +161,7 @@ a:active {
   text-align: center;
   padding: 20px;
   margin-bottom: 20px;
-  background-color: rgba(255,255,2550.6);
+  background-color: rgba(255,255,2550.4);
   
   border-radius: 20px;
   grid-area: c2;
@@ -172,7 +172,7 @@ a:active {
   text-align: center;
   padding: 20px;
   margin-bottom: 20px;
-  background-color: rgba(255,255,2550.6);
+  background-color: rgba(255,255,2550.4);
   
   border-radius: 20px;
   grid-area: c3;
@@ -183,14 +183,14 @@ a:active {
   text-align: center;
   padding: 20px;
   margin-bottom: 20px;
-  background-color: rgba(255,255,2550.6);
+  background-color: rgba(255,255,2550.4);
   
   border-radius: 20px;
   grid-area: c4;
 }
 
 .bottom {
-  background-color: rgba(255,255,2550.6);
+  background-color: rgba(255,255,2550.4);
   
   padding: 10px;
   border-radius: 20px;
@@ -237,7 +237,7 @@ a:active {
 }
 
 .top {
-  background-color: rgba(255,255,2550.6);
+  background-color: rgba(255,255,2550.4);
   margin: 30px;
   padding: 30px;
   border-radius: 20px;
@@ -246,7 +246,7 @@ a:active {
 
 .sidebar {
   padding: 50px;
-  background-color: rgba(255,255,2550.6);
+  background-color: rgba(255,255,2550.4);
   
   border-radius: 30px;
   justify-content: center;
@@ -264,7 +264,7 @@ a:active {
   text-align: center;
   padding: 30px;
   margin: 30px;
-  background-color: rgba(255,255,2550.6);
+  background-color: rgba(255,255,2550.4);
   border-radius: 20px;
   grid-area: c1;
 }
@@ -274,7 +274,7 @@ a:active {
   text-align: center;
   padding: 30px;
   margin: 30px;
-  background-color: rgba(255,255,2550.6);
+  background-color: rgba(255,255,2550.4);
   border-radius: 20px;
   grid-area: c2;
 }
@@ -284,7 +284,7 @@ a:active {
   text-align: center;
   padding: 30px;
   margin: 30px;
-  background-color: rgba(255,255,2550.6);
+  background-color: rgba(255,255,2550.4);
   border-radius: 20px;
   grid-area: c3;
 }
@@ -294,13 +294,13 @@ a:active {
   text-align: center;
   padding: 30px;
   margin: 30px;
-  background-color: rgba(255,255,2550.6);
+  background-color: rgba(255,255,2550.4);
   border-radius: 20px;
   grid-area: c4;
 }
 
 .bottom {
-  background-color: rgba(255,255,2550.6);
+  background-color: rgba(255,255,2550.4);
   margin: 30px;
   padding: 30px;
   border-radius: 20px;
@@ -378,7 +378,7 @@ a:active {
 }
 
 .top {
-  background-color: rgba(255,255,2550.6);
+  background-color: rgba(255,255,2550.4);
   display: flex;
   align-items: center;
   text-align: center;
@@ -402,7 +402,7 @@ a:active {
   text-align: center;
   padding: 20px;
   margin-bottom: 20px;
-  background-color: rgba(255,255,2550.6);
+  background-color: rgba(255,255,2550.4);
   
   border-radius: 20px;
   grid-area: c1;
@@ -413,7 +413,7 @@ a:active {
   text-align: center;
   padding: 20px;
   margin-bottom: 20px;
-  background-color: rgba(255,255,2550.6);
+  background-color: rgba(255,255,2550.4);
   
   border-radius: 20px;
   grid-area: c2;
@@ -424,7 +424,7 @@ a:active {
   text-align: center;
   padding: 20px;
   margin-bottom: 20px;
-  background-color: rgba(255,255,2550.6);
+  background-color: rgba(255,255,2550.4);
   
   border-radius: 20px;
   grid-area: c3;
@@ -435,14 +435,14 @@ a:active {
   text-align: center;
   padding: 20px;
   margin-bottom: 20px;
-  background-color: rgba(255,255,2550.6);
+  background-color: rgba(255,255,2550.4);
   
   border-radius: 20px;
   grid-area: c4;
 }
 
 .bottom {
-  background-color: rgba(255,255,2550.6);
+  background-color: rgba(255,255,2550.4);
   
   padding: 10px;
   border-radius: 20px;
