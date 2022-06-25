@@ -86,6 +86,14 @@ a:active {
   color: #623412;
 }
 
+.b-link {
+  color: white;
+  font-size: 20px;
+  font-weight: 800;
+  background-color: black;
+  border-radius: 10px;
+}
+
 
 
 .grid-container {
