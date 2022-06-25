@@ -58,7 +58,7 @@ a:active {
   grid-template-rows: 1fr 5fr 3fr 3fr 3fr 3fr;
   grid-template-areas: 
   "top"
-  "Sidebar"
+  "sidebar"
   "c1"
   "c2"
   "c3"
@@ -72,13 +72,13 @@ a:active {
   grid-area: top;
 }
 
-.Sidebar {
+.sidebar {
   padding: 20px;
   justify-content: center;
   align-items: center;
   text-align: center;
   margin: auto;
-  grid-area: Sidebar;
+  grid-area: sidebar;
 }
 
 .c1 {
