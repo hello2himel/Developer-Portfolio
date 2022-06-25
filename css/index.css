@@ -69,6 +69,7 @@ a:active {
 
 .Sidebar {
   justify-content: center;
+  align-items: center;
   margin: auto;
   grid-area: Sidebar;
 }
