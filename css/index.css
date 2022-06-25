@@ -89,7 +89,8 @@ a:active {
 
 .top {
   background-color: white;
-  opacity: 60%;
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
   border-radius: 20px;
   grid-area: top;
 }
@@ -110,7 +111,8 @@ a:active {
   padding: 20px;
   margin-bottom: 20px;
   background-color: white;
-  opacity: 60%;
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
   border-radius: 20px;
   grid-area: c1;
 }
@@ -121,7 +123,8 @@ a:active {
   padding: 20px;
   margin-bottom: 20px;
   background-color: white;
-  opacity: 60%;
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
   border-radius: 20px;
   grid-area: c2;
 }
@@ -132,7 +135,8 @@ a:active {
   padding: 20px;
   margin-bottom: 20px;
   background-color: white;
-  opacity: 60%;
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
   border-radius: 20px;
   grid-area: c3;
 }
@@ -143,14 +147,16 @@ a:active {
   padding: 20px;
   margin-bottom: 20px;
   background-color: white;
-  opacity: 60%;
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
   border-radius: 20px;
   grid-area: c4;
 }
 
 .bottom {
   background-color: white;
-  opacity: 60%;
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
   padding: 20px;
   border-radius: 20px;
   grid-area: bottom;
@@ -176,7 +182,8 @@ a:active {
   background-color: white;
   margin: 10px;
   padding: 10px;
-  opacity: 60%;
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
   border-radius: 20px;
   grid-area: top;
 }
@@ -184,7 +191,8 @@ a:active {
 .sidebar {
   padding: 10px;
   background-color: white;
-  opacity: 60%;
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
   border-radius: 20px;
   justify-content: center;
   align-items: center;
@@ -201,7 +209,8 @@ a:active {
   padding: 10px;
   margin: 10px;
   background-color: white;
-  opacity: 60%;
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
   border-radius: 20px;
   grid-area: c1;
 }
@@ -212,7 +221,8 @@ a:active {
   padding: 10px;
   margin: 10px;
   background-color: white;
-  opacity: 60%;
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
   border-radius: 20px;
   grid-area: c2;
 }
@@ -223,7 +233,8 @@ a:active {
   padding: 10px;
   margin: 10px;
   background-color: white;
-  opacity: 60%;
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
   border-radius: 20px;
   grid-area: c3;
 }
@@ -234,14 +245,16 @@ a:active {
   padding: 10px;
   margin: 10px;
   background-color: white;
-  opacity: 60%;
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
   border-radius: 20px;
   grid-area: c4;
 }
 
 .bottom {
   background-color: white;
-  opacity: 60%;
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
   margin: 10px;
   padding: 10px;
   border-radius: 20px;
