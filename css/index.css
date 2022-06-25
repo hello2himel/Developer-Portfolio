@@ -44,6 +44,11 @@ a:active {
   border-radius: 100%;
 }
 
+.name {
+  font-weight: 800;
+  padding: 10px;
+}
+
 
 
 .grid-container {
@@ -68,8 +73,10 @@ a:active {
 }
 
 .Sidebar {
+  padding: 20px;
   justify-content: center;
   align-items: center;
+  text-align: center;
   margin: auto;
   grid-area: Sidebar;
 }
