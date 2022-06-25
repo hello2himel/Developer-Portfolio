@@ -63,7 +63,7 @@ a:active {
 
 .bio {
   font-weight: 300;
-  font-size: 40px;
+  font-size: 10px;
   padding: 10px;
 }
 
@@ -241,6 +241,7 @@ a:active {
   justify-content: center;
   align-items: center;
   text-align: center;
+  margin: 30px;
   margin-top: 30px;
   margin-bottom: 30px;
   grid-area: sidebar;
