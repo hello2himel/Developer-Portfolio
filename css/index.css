@@ -41,6 +41,8 @@ a:active {
 .top {
   color: white;
   opacity: 60%;
+  align-content: center;
+  display: flex;
 }
 
 .container {
