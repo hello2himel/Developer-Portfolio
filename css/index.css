@@ -101,6 +101,7 @@ a:active {
 .top {
   background-color: white;
   display: flex;
+  align-items: center;
   text-align: center;
   opacity: 60%;
   border-radius: 20px;
