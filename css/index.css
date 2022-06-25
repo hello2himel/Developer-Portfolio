@@ -71,8 +71,10 @@ a:active {
   align-items: center;
   text-align: center;
   padding: 20px;
+  margin-bottom: 20px;
   background-color: white;
   opacity: 60%;
+  border-radius: 20px;
   grid-area: c1;
 }
 .c2 {
@@ -80,8 +82,10 @@ a:active {
   align-items: center;
   text-align: center;
   padding: 20px;
+  margin-bottom: 20px;
   background-color: white;
   opacity: 60%;
+  border-radius: 20px;
   grid-area: c2;
 }
 .c3 {
@@ -89,8 +93,10 @@ a:active {
   align-items: center;
   text-align: center;
   padding: 20px;
+  margin-bottom: 20px;
   background-color: white;
   opacity: 60%;
+  border-radius: 20px;
   grid-area: c3;
 }
 .c4 {
@@ -98,7 +104,9 @@ a:active {
   align-items: center;
   text-align: center;
   padding: 20px;
+  margin-bottom: 20px;
   background-color: white;
   opacity: 60%;
+  border-radius: 20px;
   grid-area: c4;
 }
