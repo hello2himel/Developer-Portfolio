@@ -55,6 +55,20 @@ a:active {
   padding: 10px;
 }
 
+.social {
+  padding: 10px;
+}
+
+.c-heading {
+  font-weight: 600;
+  padding: 10px;
+}
+
+.c-text {
+  font-weight: 400;
+  padding: 10px;
+}
+
 
 
 .grid-container {
