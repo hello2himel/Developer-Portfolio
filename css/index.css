@@ -21,6 +21,10 @@ ul {
   display: inline;
 }
 
+ul li {
+  float: left;
+}
+
 a {
   margin: 5px;
   text-decoration: none;
