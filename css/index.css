@@ -8,4 +8,5 @@
 
 body {
  background-image: url('/res/background.jpeg');
+ background-repeat: no-repeat;
 }
