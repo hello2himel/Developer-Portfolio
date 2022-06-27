@@ -3,4 +3,6 @@
 body {
   background-image: url('/res/background.jpeg');
   background-repeat: no-repeat;
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
