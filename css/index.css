@@ -2,7 +2,7 @@
 
 body {
   background-image: url('/res/background.jpeg');
-  background-repeat: no-repeat;
+  background-color: rgb(251,252,247);
   background-repeat: no-repeat;
   background-size: 100%;
 }
