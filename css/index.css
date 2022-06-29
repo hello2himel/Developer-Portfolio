@@ -1,10 +1,1 @@
 @import url('https://fonts.googleapis.com/css2?family=Overpass&display=swap');
-
-body {
-  background-image: url('/res/background.jpeg');
-  background-color: rgb(251,252,247);
-  background-repeat: no-repeat;
-  background-size: 100% auto;
-  background-attachment: fixed;
-  background-position: bottom;
-}
