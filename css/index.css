@@ -1,1 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Overpass&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis&display=swap');
+
+* {
+  font-family: 'Dosis', sans-serif;
+}
