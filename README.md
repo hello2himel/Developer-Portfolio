@@ -1,23 +1,23 @@
 <h1 align="center">Greetings 👋, I'm Himel</h1>
 <h3 align="center">I'm a programmer, podcaster, blogger, literature geek, tech enthusiast, and the founder of Techbondhu. I've been bugging people with technical questions since I was a kid—and now I have the answers to all of your questions. If you're looking for an easy way to debug people with the touch of tech, look no further than contacting me!</h3>
 
-- 🔭 I’m currently working on [A portfolio for my school](bogurazillaschool.netlify.app)
+- 🔭 I’m currently working on [A portfolio for my school](https://bogurazillaschool.netlify.app)
 
 - 🌱 I’m currently learning **Bootstrap, JavaScript**
 
 - 👯 I’m looking to collaborate on [OS Board](https://github.com/codepotro/OSBoard)
 
-- 🤝 I’m looking for help with [Bootstrap](bogurazillaschool.netlify.app)
+- 🤝 I’m looking for help with [Bootstrap](https://bogurazillaschool.netlify.app)
 
-- 👨‍💻 All of my projects are available at [github.com/himeeeelll](github.com/himeeeelll)
+- 👨‍💻 All of my projects are available at [github.com/himeeeelll](https://github.com/himeeeelll)
 
-- 📝 I regularly write articles on [www.techbondhu.xyz](www.techbondhu.xyz)
+- 📝 I regularly write articles on [www.techbondhu.xyz](https://www.techbondhu.xyz)
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript**
 
 - 📫 How to reach me **himeeeelll@gmail.com**
 
-- 📄 Know about my experiences [himeeeelll.netlify.app](himeeeelll.netlify.app)
+- 📄 Know about my experiences [himeeeelll.netlify.app](https://himeeeelll.netlify.app)
 
 - ⚡ Fun fact **I do all of my coding using a phone**
 
