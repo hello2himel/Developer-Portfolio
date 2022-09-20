@@ -10,6 +10,8 @@
 .profile {
   border-radius: 50%;
   padding: 1px;
-  margin: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   width: 30%;
 }
