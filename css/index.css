@@ -20,7 +20,7 @@ body {
 }
 
 .profile {
-  border: 1px;
+  border: 4px;
   border-color: #163152;
   border-radius: 50%;
   padding: 1px;
@@ -44,7 +44,7 @@ body {
 .links {
   text-align: center;
   display: block;
-  margin-top: 1vh;
+  margin-top: 2vh;
   margin-bottom: 2vh;
 }
 
