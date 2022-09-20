@@ -43,4 +43,7 @@ body {
   grid-area: c1;
   align-items: center;
   align-content: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
