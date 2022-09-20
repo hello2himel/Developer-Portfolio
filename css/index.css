@@ -39,6 +39,15 @@ body {
   font-size: 15px;
 }
 
+.links {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  font-size: 1.5 rem;
+}
+
 .c1 {
   grid-area: c1;
   align-items: center;
