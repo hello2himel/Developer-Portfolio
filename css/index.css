@@ -20,6 +20,8 @@ body {
 }
 
 .profile {
+  border: 1px;
+  border-color: #163152;
   border-radius: 50%;
   padding: 1px;
   display: block;
@@ -49,6 +51,7 @@ body {
 a {
   text-decoration: none;
   font-size: 1.5 rem;
+  color: #163152;
 }
 
 .c1 {
