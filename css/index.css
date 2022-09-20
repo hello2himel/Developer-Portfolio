@@ -12,10 +12,18 @@ body {
   padding-right: 20px;
 }
 
+.grid-container {
+  display: grid;
+  column-gap: 1.5 rem;
+  row-gap: 1.5 rem;
+  grid-template-areas: "c1 c1 c1";
+}
+
 .profile {
   border-radius: 50%;
   padding: 1px;
   display: block;
+  margin-top: 5vh;
   margin-left: auto;
   margin-right: auto;
   width: 30%;
@@ -29,4 +37,10 @@ body {
 .subtext {
   text-align: center;
   font-size: 15px;
+}
+
+.c1 {
+  grid-area: c1;
+  align-items: center;
+  align-content: center;
 }
