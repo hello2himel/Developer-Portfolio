@@ -41,6 +41,9 @@ body {
 
 .links {
   text-align: center;
+  display: block;
+  margin-top: 1 vh;
+  margin-bottom: 1 vh;
 }
 
 a {
