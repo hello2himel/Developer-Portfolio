@@ -5,3 +5,10 @@
   padding: 0;
   margin: 0;
 }
+
+.profile {
+  border-radius: 50%;
+  padding: 1px;
+  margin: auto;
+  width: 30%;
+}
